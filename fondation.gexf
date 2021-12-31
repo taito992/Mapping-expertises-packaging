@@ -1,0 +1,2930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-12-31">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"></attribute>
+      <attribute id="contact" title="contact" type="string"></attribute>
+      <attribute id="administrative site" title="administrative site" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Gilles Coatrieux" label="Gilles Coatrieux">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Gilles.COATRIEUX@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="690.2187" y="9.978506"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Oumayma  Khammal" label="Oumayma  Khammal">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Oumayma.KHAMMAL@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="596.9065" y="-115.21279"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Anne Debauge" label="Anne Debauge">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="anne.debauge@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="21.012804" y="258.00436"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Stephane Schoni" label="Stephane Schoni">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Stephane.SCHONI@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="646.9544" y="191.71895"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Matthew Forrester" label="Matthew Forrester">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="matthew.forrester@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-649.37933" y="323.5739"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Pierre Gardet" label="Pierre Gardet">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="pierre.gardet@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="273.92993" y="562.33093"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Danny Sugrim" label="Danny Sugrim">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="danny.sugrim@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="TERMINAL STORES"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-181.27332" y="89.271194"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Mcgrady Xue" label="Mcgrady Xue">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="McGrady.XUE@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="PUDONG"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-661.877" y="-184.28833"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Benjamin Cusnati" label="Benjamin Cusnati">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Benjamin.CUSNATI@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-307.38892" y="-505.67545"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Andrew Knerr" label="Andrew Knerr">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Andrew.Knerr@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="Clark, NJ"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-3137.2478" y="2157.232"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Maheen Iqbal" label="Maheen Iqbal">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Maheen.IQBAL@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="AULNAY"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-3237.9443" y="-1185.7007"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Aditya Varale" label="Aditya Varale">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="aditya.varale@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="INDE"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-958.23334" y="-104.20931"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Simon Lan" label="Simon Lan">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="simon.lan2@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CHINA"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="165.8717" y="-63.96357"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Tom Wang" label="Tom Wang">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Tom.WANG1@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CHINA"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1389.138" y="-250.43265"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Lise Dubroca" label="Lise Dubroca">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Lise.DUBROCA@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1379.1434" y="-581.5112"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Johnny Zhang" label="Johnny Zhang">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Johnny.ZHANG@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CHINA"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="953.9619" y="718.3205"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Grace Guo" label="Grace Guo">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Grace.GUO@loreal.com"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1704.9442" y="-577.6805"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Capucine Baron" label="Capucine Baron">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Capucine.BARON@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-148.00163" y="-148.57799"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Florence  Trotet" label="Florence  Trotet">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="florence.trotet@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="889.71405" y="-565.5326"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Xavier Debaecker" label="Xavier Debaecker">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Xavier.DEBAECKER@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1036.0428" y="231.82405"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Bylal Fadlaoui" label="Bylal Fadlaoui">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Bylal.FADLAOUI@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="176.16588" y="376.5559"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Olivier Dovergne" label="Olivier Dovergne">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="olivier.dovergne@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1336.9321" y="148.3542"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Anais Gentils" label="Anais Gentils">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Anais.GENTILS@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="457.14383" y="-667.222"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Guojie Meng" label="Guojie Meng">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Guojie.MENG@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CHINA"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1103.4587" y="837.6974"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Emilie Coffy" label="Emilie Coffy">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Emilie.COFFY@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1807.2781" y="490.12933"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="François Martin" label="François Martin">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="francois.martin@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="334.16116" y="400.31274"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Alexandre Mayer" label="Alexandre Mayer">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Alexandre.MAYER@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="634.96844" y="355.20337"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Laurence Gerard" label="Laurence Gerard">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Laurence.GERARD@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1042.428" y="-728.37427"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Yannick Mandati" label="Yannick Mandati">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Yannick.MANDATI@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1234.5334" y="-13.669781"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Philippe Ammirati" label="Philippe Ammirati">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Philippe.AMMIRATIANDRE@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="728.48584" y="-447.02466"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Mathieu Larose" label="Mathieu Larose">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="mathieu.larose@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="2083.4558" y="-751.9281"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Olivier Farnault" label="Olivier Farnault">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Olivier.FARNAULT@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="AULNAY"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="289.93222" y="-856.19684"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Florence Trotet" label="Florence Trotet">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Florence.TROTET@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="888.6253" y="45.757618"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Thomas Rivet" label="Thomas Rivet">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Thomas.RIVET@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-695.0941" y="-1055.575"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Helene Charron" label="Helene Charron">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Helene.CHARRON@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-199.57219" y="770.0325"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Charlotte Robert" label="Charlotte Robert">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Charlotte.ROBERT@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-731.1095" y="-321.59195"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Maeva Roberto" label="Maeva Roberto">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Maeva.ROBERTO@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="STOUEN"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-112.95847" y="-817.2899"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Marina Nem" label="Marina Nem">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Marina.NEM@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1240.5474" y="-879.2856"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Noemie Masfrand" label="Noemie Masfrand">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Noemie.MASFRAND@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-3492.8792" y="-1026.1127"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Lycia Aoussat" label="Lycia Aoussat">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Lycia.AOUSSAT@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="517.1568" y="-250.43626"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Emilie Monteiro" label="Emilie Monteiro">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Emilie.MONTEIRO@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="840.3045" y="-326.03796"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Laurie Savoyen" label="Laurie Savoyen">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Laurie.SAVOYEN@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="880.8841" y="-150.61171"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="May Chen" label="May Chen">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="May.CHEN@loreal.com"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="113.28385" y="901.67847"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Yaohui Qiu" label="Yaohui Qiu">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="YaoHui.QIU@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CHINA"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="404.2584" y="921.5666"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Renato Simoes" label="Renato Simoes">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Renato.SIMOES@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="BRESIL"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="42.620544" y="1050.9742"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Theo Haywood" label="Theo Haywood">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Theo.HAYWOOD@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-2960.2188" y="-2454.8652"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Ge Tian" label="Ge Tian">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Ge.TIAN@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CHINA"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="725.9911" y="-1064.0159"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Luis Lima" label="Luis Lima">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Luis.LIMA@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="545.8797" y="-507.84802"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Theophile Ziegler" label="Theophile Ziegler">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Theophile.ZIEGLER@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="853.67413" y="-1544.3083"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Thierry Picaud" label="Thierry Picaud">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="Thierry.PICAUD@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="STOUEN"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-531.57837" y="-1001.7693"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Delphine Trillat" label="Delphine Trillat">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="delphine.trillat@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="aulnay"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1202.3107" y="1044.9688"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Nicolas  Duru" label="Nicolas  Duru">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="nicolas.duru@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1553.7206" y="-214.14534"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Olivier De lataulade" label="Olivier De lataulade">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="olivier.delataulade@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1799.7346" y="-913.3199"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Cedric Dever" label="Cedric Dever">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="cedric.dever@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1586.2563" y="987.11694"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="David Guerin" label="David Guerin">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="david.guerin@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="885.42694" y="-3156.136"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Thomas Etein" label="Thomas Etein">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="thiomas.etein@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1441.4648" y="1332.1376"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Marie Valentin" label="Marie Valentin">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="marie.valentin@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="917.81836" y="-2801.6736"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Elie  Makhoul" label="Elie  Makhoul">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="elie.MAKHOUL@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-986.2303" y="1010.87836"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Brice Andre" label="Brice Andre">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="brice.andre@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1825.4072" y="1564.3145"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Anne Guillou" label="Anne Guillou">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="anne.guillou@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1636.679" y="1343.1935"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Carine Pascal" label="Carine Pascal">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="carine.pascal@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1544.9464" y="1720.5892"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Olivier  Farnault" label="Olivier  Farnault">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="olivier.FARNAULT@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="aulnay"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-3492.6753" y="-1284.5128"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Patrick Jamet" label="Patrick Jamet">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="patrick.jamet@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="aulnay"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="34.430786" y="-752.02545"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Laure Thiebaut" label="Laure Thiebaut">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="laure.thiebaut@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="aulnay"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-154.35246" y="949.15875"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Adriana  Fregoso" label="Adriana  Fregoso">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="adriana.FREGOSO@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="aulnay"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1388.8013" y="689.10535"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Annie Borla" label="Annie Borla">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="annie.borlat@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="aulnay"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1251.313" y="828.5582"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Elise  Saunier" label="Elise  Saunier">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="elise.saunier@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="aulnay"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-774.1181" y="489.44992"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Emeric Renaudin" label="Emeric Renaudin">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="emeric.renaudin@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="582.9625" y="912.44867"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Luc Maelstaf" label="Luc Maelstaf">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="luc.maelstaf@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="655.802" y="638.98865"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Philippe Van der schrieck" label="Philippe Van der schrieck">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="philippe.vanderschrieck@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="1379.8492" y="-403.48685"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Whenzhen Cheng" label="Whenzhen Cheng">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="whenzhen.chang@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="Clark, NJ"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-623.04675" y="123.385506"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="William Bickford" label="William Bickford">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="william.bickford@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="Clark, NJ"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-467.3059" y="-6.2727375"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Thiago Lucca" label="Thiago Lucca">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="thiago.lucca@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="BRESIL"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-777.52924" y="87.803795"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Jose luis Fortanelli" label="Jose luis Fortanelli">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="joseluis.fortanelli@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-361.60867" y="-120.73612"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Alexis Leonard" label="Alexis Leonard">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="alexis.leonard@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="Japan"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-321.66788" y="28.271925"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Maxime Peron" label="Maxime Peron">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="maxime.peron@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-510.60742" y="-159.18935"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="François Boucher" label="François Boucher">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="francois.boucher@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-788.8244" y="-79.31905"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Stephane Lesprit" label="Stephane Lesprit">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="stephane.lesprit@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-665.20074" y="658.0517"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="Patrick Charnay" label="Patrick Charnay">
+        <attvalues>
+          <attvalue for="type" value="person"></attvalue>
+          <attvalue for="contact" value="patrick.charnay@loreal.com"></attvalue>
+          <attvalue for="administrative site" value="CCZ RIO"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="495.47565" y="425.0087"></viz:position>
+        <viz:color r="255" g="123" b="82"></viz:color>
+      </node>
+      <node id="injection" label="injection">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="424.5583" y="89.260445"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="injection blow molding" label="injection blow molding">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="376.86777" y="-202.39723"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="PROMIX" label="PROMIX">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="787.2682" y="-69.463295"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="test" label="test">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-59.053238" y="-584.7083"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="flexible SEBS compatibility" label="flexible SEBS compatibility">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="77.8771" y="127.75162"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="fontaine" label="fontaine">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="50.155636" y="443.5496"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="upskilling" label="upskilling">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-51.463577" y="103.85422"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="organization" label="organization">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="8.709058" y="723.6288"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="3D printing" label="3D printing">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-442.37354" y="213.09293"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="wood 3D printed" label="wood 3D printed">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-879.66614" y="429.67603"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="pilot mold" label="pilot mold">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="248.59029" y="749.19653"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="technical design" label="technical design">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="490.79196" y="751.24316"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="VR" label="VR">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-91.91515" y="385.83786"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="test tool" label="test tool">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-548.1822" y="-867.58386"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="seringue" label="seringue">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-3232.2136" y="2074.152"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="LDPE syringe seals" label="LDPE syringe seals">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-3030.7644" y="2090.7188"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="cracking LDPE" label="cracking LDPE">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-3111.9006" y="2280.6223"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="dispensing" label="dispensing">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-3389.327" y="-1141.6973"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="flexible packaging" label="flexible packaging">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1109.801" y="-151.69688"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="decoration" label="decoration">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1175.5068" y="-346.3685"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="additive" label="additive">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1217.635" y="-637.41345"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="material additive" label="material additive">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1083.4658" y="-90.42068"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="polymer materials" label="polymer materials">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1381.335" y="995.7126"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="compatibility" label="compatibility">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="840.4205" y="566.72577"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="label" label="label">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1776.6428" y="-734.065"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="assembly" label="assembly">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="740.9041" y="-770.36273"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="extrusion" label="extrusion">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1245.7833" y="370.89526"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="metal" label="metal">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1455.7234" y="515.3305"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="refillable parfum" label="refillable parfum">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1961.8508" y="473.90335"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="screwing parfum" label="screwing parfum">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1927.9202" y="564.32294"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="assembly tool" label="assembly tool">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-5.5225024" y="-105.54895"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="label defect" label="label defect">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="2211.6956" y="-778.76434"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="assembly wiper" label="assembly wiper">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="321.8523" y="705.131"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="mascara metalization" label="mascara metalization">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1010.1402" y="-0.9684124"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="tube airtight test" label="tube airtight test">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-758.05566" y="-1172.2251"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="pump" label="pump">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1036.352" y="-498.30273"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="sensoriality" label="sensoriality">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1378.345" y="54.76899"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="deformation mecanism" label="deformation mecanism">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1312.5303" y="-1006.48816"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="secondary packaging" label="secondary packaging">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1304.922" y="-1101.6199"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="plate stick on parfum" label="plate stick on parfum">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1915.5686" y="394.31323"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="RACI process" label="RACI process">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1019.1259" y="88.71254"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="Connected tools" label="Connected tools">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-805.9958" y="376.5718"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="jar screwing" label="jar screwing">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-3066.36" y="-2508.8098"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="Tori Cushion design" label="Tori Cushion design">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1192.9722" y="946.8529"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="compact noise" label="compact noise">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1390.3918" y="-951.02374"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="glass" label="glass">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="895.57544" y="-2236.773"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="lacquer" label="lacquer">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1887.1064" y="-1034.3191"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="lazer remove" label="lazer remove">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1957.3033" y="-877.084"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="electroplating" label="electroplating">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1807.5502" y="-1057.8285"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="galvanization" label="galvanization">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1987.0199" y="-1011.3013"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="hot stamping" label="hot stamping">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1926.4274" y="-952.84937"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="plastic" label="plastic">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1732.9111" y="990.3105"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="cellulosic materials" label="cellulosic materials">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="901.3389" y="-3018.5679"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="Sustainability" label="Sustainability">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1552.4502" y="1528.6149"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="packaging SBT" label="packaging SBT">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="778.293" y="-2824.5193"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="Environmental impact of PLV/Promo" label="Environmental impact of PLV/Promo">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="1062.8016" y="-2822.6506"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="External LCA" label="External LCA">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-989.76105" y="1154.712"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="safety" label="safety">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-1147.5441" y="651.52106"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="compact lightweightening" label="compact lightweightening">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="736.29266" y="741.38055"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="UX Design" label="UX Design">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-865.28705" y="-216.17091"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="paper transformation" label="paper transformation">
+        <attvalues>
+          <attvalue for="type" value="domain"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-740.9961" y="776.8498"></viz:position>
+        <viz:color r="0" g="134" b="184"></viz:color>
+      </node>
+      <node id="flowlines" label="flowlines">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="734.54443" y="-156.44586"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="coloration PET PCR" label="coloration PET PCR">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="759.5103" y="118.42881"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="overtorque lipstick" label="overtorque lipstick">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="81.19937" y="-187.53404"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="mecanism" label="mecanism">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="398.52567" y="-312.38174"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="droptest bullet" label="droptest bullet">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-45.127037" y="-246.32355"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="bullet cup" label="bullet cup">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="194.32802" y="236.65887"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="bi-injection" label="bi-injection">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="145.60236" y="71.421364"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="flexible jar" label="flexible jar">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="182.30066" y="151.54025"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="shampoo fontaine" label="shampoo fontaine">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-35.79253" y="473.45944"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="technical topics sharing" label="technical topics sharing">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="36.83948" y="48.399967"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="video production" label="video production">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-118.34609" y="195.5862"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="extended ecosystem" label="extended ecosystem">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="30.938963" y="547.88763"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="open innovation" label="open innovation">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-158.85892" y="628.17694"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="magnet" label="magnet">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="734.7755" y="285.34326"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="compact" label="compact">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="780.9266" y="214.36685"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="mockup" label="mockup">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-623.67163" y="-31.188833"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="tub mockup" label="tub mockup">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-401.6396" y="430.41675"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="3D printed finish foods" label="3D printed finish foods">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-310.45465" y="377.85446"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="welding tub mockup" label="welding tub mockup">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-577.3787" y="454.26996"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="flexible bottle mockup" label="flexible bottle mockup">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-507.48447" y="401.65356"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="formula mockup" label="formula mockup">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-772.46027" y="240.11578"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="3D printed mold" label="3D printed mold">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-203.9175" y="241.27516"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="service cap technical design" label="service cap technical design">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="413.4533" y="529.4268"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="production mold" label="production mold">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="395.39603" y="644.2892"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="optimisation topologic" label="optimisation topologic">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="341.3234" y="787.57837"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="virtual room" label="virtual room">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-139.10245" y="494.7647"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="digital mockup" label="digital mockup">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-126.60865" y="292.46582"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="3D printed test tool" label="3D printed test tool">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-404.4835" y="-251.93063"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="aerosol filling" label="aerosol filling">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-3332.1792" y="-1262.9854"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="liquefied gas" label="liquefied gas">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-3273.7866" y="-1061.9717"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="360° immersion" label="360° immersion">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-205.85568" y="437.9239"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="digitalised visit" label="digitalised visit">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-197.56915" y="347.86282"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="pouch mockup" label="pouch mockup">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1171.7522" y="-261.99347"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="pouch digital printed" label="pouch digital printed">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1035.6217" y="-239.0384"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PETG PCR masterbatch" label="PETG PCR masterbatch">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="731.95197" y="-267.094"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="HDPE softtouch" label="HDPE softtouch">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1523.1897" y="-562.50665"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="metallization" label="metallization">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1494.9047" y="-329.72647"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PP charged" label="PP charged">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1431.2666" y="-697.2977"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PP decoration" label="PP decoration">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1533.1459" y="-424.6069"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="recyled materials" label="recyled materials">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1027.6847" y="684.5502"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PET PCR 3D printed" label="PET PCR 3D printed">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-694.44727" y="215.0739"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Torque test" label="Torque test">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-305.0543" y="-652.0881"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="thin packaging test" label="thin packaging test">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-216.42278" y="-693.9367"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="flexible packaging test" label="flexible packaging test">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-211.53273" y="-600.8539"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Sleeve corroded" label="Sleeve corroded">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="607.8484" y="484.5388"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="UV formula resistance" label="UV formula resistance">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="541.0967" y="550.70294"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Wet Nozzle Cannula" label="Wet Nozzle Cannula">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1035.2601" y="608.0536"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="oil formula resistance" label="oil formula resistance">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="888.85504" y="816.58154"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Reduction injection time" label="Reduction injection time">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="269.6259" y="-126.13729"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="conformal cooling" label="conformal cooling">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-215.34737" y="-45.068687"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="bottle label defect" label="bottle label defect">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1597.7494" y="-474.32623"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="transparent BOPP label" label="transparent BOPP label">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1885.3064" y="-670.7171"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="glassine paper" label="glassine paper">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1847.3823" y="-584.1287"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="FIT digitalization" label="FIT digitalization">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-83.51156" y="-20.951145"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Digitalization meeting" label="Digitalization meeting">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-75.67119" y="570.9416"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="wiper assembly" label="wiper assembly">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="871.24164" y="-1047.4344"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="mascara decoration" label="mascara decoration">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="971.94055" y="-302.7727"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="thermic lacquer" label="thermic lacquer">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1088.5167" y="-586.1855"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="leakage Mist pump" label="leakage Mist pump">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="916.17975" y="-707.17847"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="sleeve on pump" label="sleeve on pump">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="933.2394" y="-807.5608"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="leakage oil pump" label="leakage oil pump">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1013.68945" y="443.0598"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="tub decoration" label="tub decoration">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1104.1843" y="18.62089"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="extruded bottle" label="extruded bottle">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1225.0393" y="266.09406"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="canula" label="canula">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="864.0278" y="229.83417"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="parfum cap" label="parfum cap">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="275.8378" y="279.3446"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="aluminium tub" label="aluminium tub">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1452.4751" y="318.58752"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="pouch" label="pouch">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1146.19" y="-40.60692"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="troque force mecanism" label="troque force mecanism">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="189.22945" y="-673.83624"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="POM mecanism" label="POM mecanism">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="539.4434" y="-859.2681"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PBT mecanism" label="PBT mecanism">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="882.7015" y="-906.7916"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="isododecane formula pump" label="isododecane formula pump">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1106.5913" y="695.30347"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="parfum fontaine" label="parfum fontaine">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="130.20076" y="507.1624"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="screwing mascara" label="screwing mascara">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="499.6902" y="-370.2621"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="service cap" label="service cap">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="761.1718" y="380.22073"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="varnish cracking" label="varnish cracking">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1112.1016" y="349.702"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PET decoration" label="PET decoration">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="950.1679" y="-420.35837"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="injection lipstick" label="injection lipstick">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="611.88983" y="-331.3579"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="glue" label="glue">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="752.4189" y="-581.0126"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="zamac" label="zamac">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1658.0469" y="497.0841"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="pelable label" label="pelable label">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1941.0967" y="-772.761"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="lipstick" label="lipstick">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="662.55853" y="-589.8359"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="tomography" label="tomography">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="99.64696" y="-864.1416"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="welding design" label="welding design">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="467.58102" y="-932.66956"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="wiper" label="wiper">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="426.71823" y="320.7539"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="pump spring noize" label="pump spring noize">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1244.9781" y="-158.2917"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="tension force capability" label="tension force capability">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-249.09526" y="-796.02325"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PS mecanism" label="PS mecanism">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1035.8439" y="-925.3893"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="compact decoration" label="compact decoration">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1305.6581" y="-720.66656"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="compact label" label="compact label">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1562.8867" y="-854.462"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="aerosol diffusor" label="aerosol diffusor">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-3538.719" y="-1155.5383"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="aerosol" label="aerosol">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-3365.5708" y="-1003.88275"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PET PCR" label="PET PCR">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="645.0461" y="-238.93294"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="injection gate" label="injection gate">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="377.8585" y="-415.58203"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="decoration resistance with lotion" label="decoration resistance with lotion">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1343.9207" y="-117.855095"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="organization first production control" label="organization first production control">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="174.74901" y="681.8697"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="makeup technical design" label="makeup technical design">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="487.86075" y="618.123"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="process from inno to packaging engineering" label="process from inno to packaging engineering">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="123.42478" y="594.5835"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Tub hot stamping" label="Tub hot stamping">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1033.7754" y="-183.81905"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="box for sampling" label="box for sampling">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1393.89" y="-1065.5773"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="temperature/humidity sensor" label="temperature/humidity sensor">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="189.72585" y="1015.7803"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="injection IoT sensors" label="injection IoT sensors">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-877.75757" y="263.20935"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="blow-molding IoT sensors" label="blow-molding IoT sensors">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-919.49994" y="349.91617"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="injection PET PCR" label="injection PET PCR">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="474.00943" y="-149.48193"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="mask sachet" label="mask sachet">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="634.3538" y="-979.65485"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="deep tub compatibility" label="deep tub compatibility">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="714.56085" y="847.12616"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="additive on PCR materials" label="additive on PCR materials">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1371.698" y="-806.30615"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PP-PE friction" label="PP-PE friction">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="603.5585" y="-648.2409"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PP-PET friction" label="PP-PET friction">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="552.84515" y="-763.2761"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="glass mascara" label="glass mascara">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="881.4006" y="-1934.6489"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="material safety" label="material safety">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1350.8765" y="1153.5957"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PCR" label="PCR">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1097.76" y="893.6712"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="food grade" label="food grade">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1244.5199" y="1177.6954"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="beautygrade" label="beautygrade">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1399.162" y="830.5531"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="biodegradable materials" label="biodegradable materials">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1637.2712" y="1119.7882"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="compostable materials" label="compostable materials">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1516.0771" y="1096.8873"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="bioplastic" label="bioplastic">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1547.189" y="862.4996"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="paper" label="paper">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1011.2432" y="-3131.3457"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="cartboard" label="cartboard">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="784.059" y="-3077.6948"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="compostability" label="compostability">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1446.777" y="1187.7063"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="recyclability" label="recyclability">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1411.4996" y="1477.4675"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="FSC" label="FSC">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="819.9148" y="-2927.138"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Forest Policy" label="Forest Policy">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1004.2695" y="-2920.8704"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Environmental impact of Glass" label="Environmental impact of Glass">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="910.5776" y="-2543.6306"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Environmental impact of cellulosic material" label="Environmental impact of cellulosic material">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1045.7349" y="-2997.836"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Regulatory" label="Regulatory">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-514.8037" y="929.5073"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="claims" label="claims">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1263.3829" y="1327.7184"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Environmental impact of Metals" label="Environmental impact of Metals">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1238.4839" y="711.94"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="environmental impact of packaging" label="environmental impact of packaging">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1748.9886" y="1649.3257"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Upstream Circularity" label="Upstream Circularity">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1753.74" y="1420.7117"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="EMcA program" label="EMcA program">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1695.9429" y="1494.6257"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="Environmental impact of Plastics" label="Environmental impact of Plastics">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1577.4547" y="1211.247"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="SPOT methodology" label="SPOT methodology">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1630.0566" y="1625.1746"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="PIL Pack Methodology" label="PIL Pack Methodology">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1429.256" y="1666.4299"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="sustainability Performance" label="sustainability Performance">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1683.5448" y="1742.4934"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="consumers knowledge" label="consumers knowledge">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-33.941948" y="925.4561"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="3D printed materials safety" label="3D printed materials safety">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-645.6918" y="510.4804"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="digital simulation" label="digital simulation">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="512.9664" y="1033.7261"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="deformation simulation" label="deformation simulation">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="652.98047" y="1012.4075"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="thin packaging technical design" label="thin packaging technical design">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="643.47516" y="774.7075"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="color&amp;artwork" label="color&amp;artwork">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1287.5078" y="-498.30627"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="colorimetry" label="colorimetry">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1470.8683" y="-495.8157"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+      <node id="injection mold design" label="injection mold design">
+        <attvalues>
+          <attvalue for="type" value="subdomain"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="528.1348" y="297.7622"></viz:position>
+        <viz:color r="204" g="227" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Gilles Coatrieux" target="injection" weight="3.0"></edge>
+      <edge id="1" source="Gilles Coatrieux" target="injection blow molding" weight="2.0"></edge>
+      <edge id="3" source="Oumayma  Khammal" target="injection" weight="2.0"></edge>
+      <edge id="4" source="Oumayma  Khammal" target="injection blow molding"></edge>
+      <edge id="6" source="Oumayma  Khammal" target="PROMIX"></edge>
+      <edge id="7" source="Anne Debauge" target="injection" weight="5.0"></edge>
+      <edge id="9" source="Anne Debauge" target="test"></edge>
+      <edge id="13" source="Anne Debauge" target="flexible SEBS compatibility"></edge>
+      <edge id="14" source="Anne Debauge" target="fontaine"></edge>
+      <edge id="15" source="Anne Debauge" target="upskilling" weight="8.0"></edge>
+      <edge id="19" source="Anne Debauge" target="organization" weight="3.0"></edge>
+      <edge id="21" source="Stephane Schoni" target="injection" weight="2.0"></edge>
+      <edge id="23" source="Anne Debauge" target="3D printing" weight="4.0"></edge>
+      <edge id="27" source="Matthew Forrester" target="3D printing" weight="9.0"></edge>
+      <edge id="35" source="Matthew Forrester" target="wood 3D printed"></edge>
+      <edge id="36" source="Pierre Gardet" target="pilot mold"></edge>
+      <edge id="37" source="Pierre Gardet" target="3D printing"></edge>
+      <edge id="38" source="Pierre Gardet" target="injection" weight="2.0"></edge>
+      <edge id="39" source="Pierre Gardet" target="technical design" weight="3.0"></edge>
+      <edge id="42" source="Anne Debauge" target="VR" weight="5.0"></edge>
+      <edge id="45" source="Danny Sugrim" target="upskilling" weight="4.0"></edge>
+      <edge id="48" source="Mcgrady Xue" target="3D printing"></edge>
+      <edge id="49" source="Benjamin Cusnati" target="test tool"></edge>
+      <edge id="50" source="Benjamin Cusnati" target="3D printing"></edge>
+      <edge id="52" source="Andrew Knerr" target="seringue"></edge>
+      <edge id="53" source="Andrew Knerr" target="LDPE syringe seals"></edge>
+      <edge id="54" source="Andrew Knerr" target="cracking LDPE"></edge>
+      <edge id="55" source="Maheen Iqbal" target="dispensing" weight="2.0"></edge>
+      <edge id="60" source="Aditya Varale" target="flexible packaging" weight="2.0"></edge>
+      <edge id="62" source="Simon Lan" target="decoration"></edge>
+      <edge id="63" source="Tom Wang" target="additive"></edge>
+      <edge id="64" source="Tom Wang" target="material additive"></edge>
+      <edge id="65" source="Lise Dubroca" target="decoration" weight="2.0"></edge>
+      <edge id="66" source="Lise Dubroca" target="additive"></edge>
+      <edge id="68" source="Matthew Forrester" target="polymer materials"></edge>
+      <edge id="70" source="Benjamin Cusnati" target="test" weight="3.0"></edge>
+      <edge id="73" source="Anne Debauge" target="compatibility" weight="2.0"></edge>
+      <edge id="75" source="Johnny Zhang" target="compatibility" weight="2.0"></edge>
+      <edge id="77" source="Simon Lan" target="injection" weight="2.0"></edge>
+      <edge id="78" source="Simon Lan" target="3D printing" weight="2.0"></edge>
+      <edge id="80" source="Grace Guo" target="decoration"></edge>
+      <edge id="81" source="Grace Guo" target="label" weight="2.0"></edge>
+      <edge id="83" source="Capucine Baron" target="upskilling"></edge>
+      <edge id="86" source="Florence  Trotet" target="assembly" weight="3.0"></edge>
+      <edge id="87" source="Florence  Trotet" target="decoration" weight="2.0"></edge>
+      <edge id="89" source="Florence  Trotet" target="injection"></edge>
+      <edge id="92" source="Xavier Debaecker" target="compatibility"></edge>
+      <edge id="93" source="Xavier Debaecker" target="decoration"></edge>
+      <edge id="94" source="Xavier Debaecker" target="extrusion"></edge>
+      <edge id="95" source="Xavier Debaecker" target="injection"></edge>
+      <edge id="96" source="Bylal Fadlaoui" target="injection"></edge>
+      <edge id="97" source="Olivier Dovergne" target="metal"></edge>
+      <edge id="98" source="Olivier Dovergne" target="flexible packaging"></edge>
+      <edge id="99" source="Anais Gentils" target="test"></edge>
+      <edge id="100" source="Anais Gentils" target="assembly" weight="2.0"></edge>
+      <edge id="102" source="Guojie Meng" target="compatibility"></edge>
+      <edge id="103" source="Bylal Fadlaoui" target="fontaine"></edge>
+      <edge id="104" source="Emilie Coffy" target="refillable parfum"></edge>
+      <edge id="105" source="Emilie Coffy" target="screwing parfum"></edge>
+      <edge id="106" source="François Martin" target="assembly"></edge>
+      <edge id="107" source="Alexandre Mayer" target="injection"></edge>
+      <edge id="108" source="Laurence Gerard" target="assembly"></edge>
+      <edge id="109" source="Yannick Mandati" target="compatibility"></edge>
+      <edge id="110" source="Yannick Mandati" target="decoration" weight="2.0"></edge>
+      <edge id="111" source="Philippe Ammirati" target="decoration" weight="2.0"></edge>
+      <edge id="113" source="Philippe Ammirati" target="injection"></edge>
+      <edge id="115" source="Philippe Ammirati" target="assembly" weight="3.0"></edge>
+      <edge id="116" source="Emilie Coffy" target="metal"></edge>
+      <edge id="117" source="Philippe Ammirati" target="assembly tool"></edge>
+      <edge id="118" source="Mathieu Larose" target="label defect"></edge>
+      <edge id="119" source="Mathieu Larose" target="label"></edge>
+      <edge id="120" source="Matthew Forrester" target="assembly tool"></edge>
+      <edge id="123" source="Olivier Farnault" target="test"></edge>
+      <edge id="124" source="Olivier Farnault" target="assembly"></edge>
+      <edge id="126" source="Pierre Gardet" target="assembly wiper"></edge>
+      <edge id="127" source="Florence Trotet" target="mascara metalization"></edge>
+      <edge id="128" source="Florence Trotet" target="decoration"></edge>
+      <edge id="129" source="Thomas Rivet" target="tube airtight test"></edge>
+      <edge id="130" source="Thomas Rivet" target="test tool"></edge>
+      <edge id="131" source="Yannick Mandati" target="pump"></edge>
+      <edge id="132" source="Yannick Mandati" target="sensoriality"></edge>
+      <edge id="133" source="Helene Charron" target="organization"></edge>
+      <edge id="134" source="Charlotte Robert" target="flexible packaging"></edge>
+      <edge id="135" source="Maeva Roberto" target="test"></edge>
+      <edge id="136" source="Marina Nem" target="deformation mecanism"></edge>
+      <edge id="137" source="Marina Nem" target="assembly" weight="2.0"></edge>
+      <edge id="139" source="Marina Nem" target="decoration"></edge>
+      <edge id="140" source="Marina Nem" target="label"></edge>
+      <edge id="141" source="Noemie Masfrand" target="dispensing" weight="2.0"></edge>
+      <edge id="145" source="Gilles Coatrieux" target="material additive"></edge>
+      <edge id="146" source="Anais Gentils" target="injection"></edge>
+      <edge id="147" source="Anais Gentils" target="additive"></edge>
+      <edge id="148" source="Lycia Aoussat" target="injection"></edge>
+      <edge id="150" source="Charlotte Robert" target="injection blow molding"></edge>
+      <edge id="151" source="Emilie Monteiro" target="injection blow molding"></edge>
+      <edge id="152" source="Emilie Monteiro" target="additive"></edge>
+      <edge id="154" source="François Martin" target="organization" weight="2.0"></edge>
+      <edge id="155" source="François Martin" target="technical design"></edge>
+      <edge id="157" source="Laurie Savoyen" target="decoration"></edge>
+      <edge id="158" source="Marina Nem" target="secondary packaging"></edge>
+      <edge id="159" source="May Chen" target="organization"></edge>
+      <edge id="160" source="Yaohui Qiu" target="organization"></edge>
+      <edge id="161" source="Emilie Coffy" target="plate stick on parfum"></edge>
+      <edge id="164" source="Florence Trotet" target="organization"></edge>
+      <edge id="165" source="Florence Trotet" target="RACI process"></edge>
+      <edge id="166" source="Renato Simoes" target="organization"></edge>
+      <edge id="167" source="Matthew Forrester" target="Connected tools" weight="3.0"></edge>
+      <edge id="170" source="Theo Haywood" target="jar screwing"></edge>
+      <edge id="171" source="Guojie Meng" target="Tori Cushion design"></edge>
+      <edge id="172" source="Marina Nem" target="compact noise"></edge>
+      <edge id="174" source="Ge Tian" target="assembly"></edge>
+      <edge id="175" source="Yaohui Qiu" target="compatibility"></edge>
+      <edge id="176" source="Marina Nem" target="additive"></edge>
+      <edge id="177" source="Luis Lima" target="assembly" weight="2.0"></edge>
+      <edge id="179" source="Luis Lima" target="injection"></edge>
+      <edge id="180" source="Theophile Ziegler" target="assembly"></edge>
+      <edge id="181" source="Theophile Ziegler" target="glass"></edge>
+      <edge id="182" source="Laurie Savoyen" target="injection"></edge>
+      <edge id="184" source="Thierry Picaud" target="test tool"></edge>
+      <edge id="187" source="Delphine Trillat" target="polymer materials" weight="4.0"></edge>
+      <edge id="191" source="Nicolas  Duru" target="decoration"></edge>
+      <edge id="192" source="Olivier De lataulade" target="decoration"></edge>
+      <edge id="194" source="Olivier De lataulade" target="lacquer"></edge>
+      <edge id="195" source="Olivier De lataulade" target="lazer remove"></edge>
+      <edge id="196" source="Olivier De lataulade" target="electroplating"></edge>
+      <edge id="197" source="Olivier De lataulade" target="galvanization"></edge>
+      <edge id="198" source="Olivier De lataulade" target="hot stamping"></edge>
+      <edge id="199" source="Cedric Dever" target="polymer materials" weight="4.0"></edge>
+      <edge id="200" source="Cedric Dever" target="plastic"></edge>
+      <edge id="204" source="David Guerin" target="cellulosic materials" weight="3.0"></edge>
+      <edge id="207" source="Thomas Etein" target="polymer materials"></edge>
+      <edge id="208" source="Thomas Etein" target="Sustainability"></edge>
+      <edge id="209" source="Marie Valentin" target="cellulosic materials" weight="3.0"></edge>
+      <edge id="210" source="Marie Valentin" target="packaging SBT"></edge>
+      <edge id="212" source="Marie Valentin" target="glass"></edge>
+      <edge id="214" source="Marie Valentin" target="Environmental impact of PLV/Promo"></edge>
+      <edge id="215" source="Elie  Makhoul" target="organization"></edge>
+      <edge id="216" source="Elie  Makhoul" target="Sustainability"></edge>
+      <edge id="217" source="Elie  Makhoul" target="External LCA"></edge>
+      <edge id="218" source="Elie  Makhoul" target="metal"></edge>
+      <edge id="220" source="Brice Andre" target="Sustainability"></edge>
+      <edge id="221" source="Anne Guillou" target="Sustainability" weight="2.0"></edge>
+      <edge id="223" source="Anne Guillou" target="polymer materials"></edge>
+      <edge id="224" source="Carine Pascal" target="Sustainability" weight="3.0"></edge>
+      <edge id="227" source="Olivier  Farnault" target="dispensing"></edge>
+      <edge id="228" source="Patrick Jamet" target="test"></edge>
+      <edge id="229" source="Laure Thiebaut" target="organization"></edge>
+      <edge id="230" source="Adriana  Fregoso" target="safety"></edge>
+      <edge id="231" source="Adriana  Fregoso" target="polymer materials"></edge>
+      <edge id="232" source="Annie Borla" target="safety"></edge>
+      <edge id="233" source="Annie Borla" target="polymer materials"></edge>
+      <edge id="234" source="Elise  Saunier" target="safety"></edge>
+      <edge id="235" source="Elise  Saunier" target="3D printing" weight="2.0"></edge>
+      <edge id="237" source="Emeric Renaudin" target="technical design" weight="2.0"></edge>
+      <edge id="239" source="Luc Maelstaf" target="injection"></edge>
+      <edge id="240" source="Luc Maelstaf" target="technical design" weight="2.0"></edge>
+      <edge id="242" source="Luc Maelstaf" target="compact lightweightening"></edge>
+      <edge id="243" source="Philippe Van der schrieck" target="decoration" weight="2.0"></edge>
+      <edge id="246" source="Whenzhen Cheng" target="3D printing"></edge>
+      <edge id="248" source="William Bickford" target="3D printing"></edge>
+      <edge id="250" source="Thiago Lucca" target="3D printing"></edge>
+      <edge id="252" source="Jose luis Fortanelli" target="3D printing"></edge>
+      <edge id="254" source="Alexis Leonard" target="3D printing"></edge>
+      <edge id="256" source="Aditya Varale" target="3D printing"></edge>
+      <edge id="258" source="Maxime Peron" target="3D printing"></edge>
+      <edge id="260" source="François Boucher" target="3D printing"></edge>
+      <edge id="261" source="François Boucher" target="UX Design"></edge>
+      <edge id="262" source="Stephane Lesprit" target="3D printing"></edge>
+      <edge id="263" source="Stephane Lesprit" target="paper transformation"></edge>
+      <edge id="264" source="Stephane Lesprit" target="injection"></edge>
+      <edge id="265" source="Stephane Lesprit" target="polymer materials"></edge>
+      <edge id="266" source="Patrick Charnay" target="technical design"></edge>
+      <edge id="267" source="Patrick Charnay" target="injection" weight="2.0"></edge>
+      <edge id="269" source="Gilles Coatrieux" target="flowlines"></edge>
+      <edge id="270" source="Gilles Coatrieux" target="coloration PET PCR"></edge>
+      <edge id="271" source="Oumayma  Khammal" target="flowlines"></edge>
+      <edge id="272" source="Oumayma  Khammal" target="coloration PET PCR"></edge>
+      <edge id="273" source="Anne Debauge" target="overtorque lipstick"></edge>
+      <edge id="274" source="Anne Debauge" target="mecanism"></edge>
+      <edge id="275" source="Anne Debauge" target="droptest bullet"></edge>
+      <edge id="276" source="Anne Debauge" target="bullet cup"></edge>
+      <edge id="277" source="Anne Debauge" target="bi-injection"></edge>
+      <edge id="278" source="Anne Debauge" target="flexible jar"></edge>
+      <edge id="279" source="Anne Debauge" target="shampoo fontaine"></edge>
+      <edge id="280" source="Anne Debauge" target="technical topics sharing" weight="2.0"></edge>
+      <edge id="281" source="Anne Debauge" target="video production" weight="3.0"></edge>
+      <edge id="283" source="Anne Debauge" target="extended ecosystem"></edge>
+      <edge id="284" source="Anne Debauge" target="open innovation"></edge>
+      <edge id="285" source="Stephane Schoni" target="magnet"></edge>
+      <edge id="286" source="Stephane Schoni" target="compact"></edge>
+      <edge id="287" source="Anne Debauge" target="mockup"></edge>
+      <edge id="288" source="Anne Debauge" target="tub mockup"></edge>
+      <edge id="289" source="Anne Debauge" target="3D printed finish foods"></edge>
+      <edge id="290" source="Matthew Forrester" target="mockup"></edge>
+      <edge id="291" source="Matthew Forrester" target="tub mockup"></edge>
+      <edge id="292" source="Matthew Forrester" target="welding tub mockup" weight="2.0"></edge>
+      <edge id="293" source="Matthew Forrester" target="flexible bottle mockup"></edge>
+      <edge id="294" source="Matthew Forrester" target="3D printed finish foods"></edge>
+      <edge id="295" source="Matthew Forrester" target="formula mockup"></edge>
+      <edge id="297" source="Pierre Gardet" target="3D printed mold"></edge>
+      <edge id="298" source="Pierre Gardet" target="service cap technical design"></edge>
+      <edge id="299" source="Pierre Gardet" target="production mold"></edge>
+      <edge id="300" source="Pierre Gardet" target="optimisation topologic"></edge>
+      <edge id="301" source="Anne Debauge" target="virtual room"></edge>
+      <edge id="302" source="Anne Debauge" target="digital mockup"></edge>
+      <edge id="303" source="Danny Sugrim" target="video production" weight="2.0"></edge>
+      <edge id="304" source="Mcgrady Xue" target="mockup"></edge>
+      <edge id="305" source="Benjamin Cusnati" target="3D printed test tool"></edge>
+      <edge id="306" source="Maheen Iqbal" target="aerosol filling"></edge>
+      <edge id="307" source="Maheen Iqbal" target="liquefied gas"></edge>
+      <edge id="308" source="Anne Debauge" target="360° immersion"></edge>
+      <edge id="309" source="Anne Debauge" target="digitalised visit"></edge>
+      <edge id="310" source="Aditya Varale" target="pouch mockup"></edge>
+      <edge id="311" source="Aditya Varale" target="pouch digital printed"></edge>
+      <edge id="312" source="Simon Lan" target="PETG PCR masterbatch"></edge>
+      <edge id="313" source="Tom Wang" target="HDPE softtouch"></edge>
+      <edge id="314" source="Lise Dubroca" target="metallization"></edge>
+      <edge id="315" source="Lise Dubroca" target="PP charged"></edge>
+      <edge id="316" source="Lise Dubroca" target="PP decoration"></edge>
+      <edge id="317" source="Matthew Forrester" target="recyled materials"></edge>
+      <edge id="318" source="Matthew Forrester" target="PET PCR 3D printed"></edge>
+      <edge id="319" source="Benjamin Cusnati" target="Torque test"></edge>
+      <edge id="320" source="Benjamin Cusnati" target="thin packaging test"></edge>
+      <edge id="321" source="Benjamin Cusnati" target="flexible packaging test"></edge>
+      <edge id="322" source="Anne Debauge" target="Sleeve corroded"></edge>
+      <edge id="323" source="Anne Debauge" target="UV formula resistance"></edge>
+      <edge id="324" source="Johnny Zhang" target="Wet Nozzle Cannula"></edge>
+      <edge id="325" source="Johnny Zhang" target="oil formula resistance"></edge>
+      <edge id="326" source="Simon Lan" target="Reduction injection time"></edge>
+      <edge id="327" source="Simon Lan" target="conformal cooling"></edge>
+      <edge id="328" source="Simon Lan" target="3D printed mold"></edge>
+      <edge id="329" source="Grace Guo" target="bottle label defect"></edge>
+      <edge id="330" source="Grace Guo" target="transparent BOPP label"></edge>
+      <edge id="331" source="Grace Guo" target="glassine paper"></edge>
+      <edge id="332" source="Capucine Baron" target="FIT digitalization"></edge>
+      <edge id="334" source="Anne Debauge" target="Digitalization meeting"></edge>
+      <edge id="335" source="Florence  Trotet" target="wiper assembly"></edge>
+      <edge id="336" source="Florence  Trotet" target="mascara decoration"></edge>
+      <edge id="337" source="Florence  Trotet" target="thermic lacquer"></edge>
+      <edge id="338" source="Florence  Trotet" target="mecanism"></edge>
+      <edge id="339" source="Florence  Trotet" target="leakage Mist pump"></edge>
+      <edge id="340" source="Florence  Trotet" target="sleeve on pump"></edge>
+      <edge id="341" source="Xavier Debaecker" target="leakage oil pump"></edge>
+      <edge id="342" source="Xavier Debaecker" target="tub decoration"></edge>
+      <edge id="343" source="Xavier Debaecker" target="extruded bottle"></edge>
+      <edge id="344" source="Xavier Debaecker" target="canula"></edge>
+      <edge id="345" source="Bylal Fadlaoui" target="parfum cap"></edge>
+      <edge id="346" source="Olivier Dovergne" target="aluminium tub"></edge>
+      <edge id="347" source="Olivier Dovergne" target="pouch"></edge>
+      <edge id="348" source="Anais Gentils" target="troque force mecanism"></edge>
+      <edge id="349" source="Anais Gentils" target="POM mecanism"></edge>
+      <edge id="350" source="Anais Gentils" target="PBT mecanism"></edge>
+      <edge id="351" source="Guojie Meng" target="isododecane formula pump"></edge>
+      <edge id="352" source="Bylal Fadlaoui" target="parfum fontaine"></edge>
+      <edge id="353" source="François Martin" target="screwing mascara"></edge>
+      <edge id="354" source="Alexandre Mayer" target="service cap"></edge>
+      <edge id="355" source="Laurence Gerard" target="pump"></edge>
+      <edge id="356" source="Yannick Mandati" target="varnish cracking"></edge>
+      <edge id="357" source="Philippe Ammirati" target="mascara decoration"></edge>
+      <edge id="358" source="Philippe Ammirati" target="PET decoration"></edge>
+      <edge id="359" source="Philippe Ammirati" target="injection lipstick"></edge>
+      <edge id="360" source="Philippe Ammirati" target="glue" weight="2.0"></edge>
+      <edge id="361" source="Emilie Coffy" target="zamac"></edge>
+      <edge id="362" source="Mathieu Larose" target="pelable label"></edge>
+      <edge id="364" source="Philippe Ammirati" target="lipstick"></edge>
+      <edge id="365" source="Olivier Farnault" target="tomography"></edge>
+      <edge id="366" source="Olivier Farnault" target="welding design"></edge>
+      <edge id="367" source="Pierre Gardet" target="wiper"></edge>
+      <edge id="368" source="Florence Trotet" target="mascara decoration"></edge>
+      <edge id="369" source="Yannick Mandati" target="pump spring noize"></edge>
+      <edge id="370" source="Helene Charron" target="open innovation"></edge>
+      <edge id="371" source="Charlotte Robert" target="pouch"></edge>
+      <edge id="372" source="Maeva Roberto" target="tension force capability"></edge>
+      <edge id="373" source="Marina Nem" target="PBT mecanism"></edge>
+      <edge id="374" source="Marina Nem" target="PS mecanism"></edge>
+      <edge id="375" source="Marina Nem" target="compact decoration"></edge>
+      <edge id="376" source="Marina Nem" target="compact label"></edge>
+      <edge id="377" source="Noemie Masfrand" target="aerosol diffusor"></edge>
+      <edge id="378" source="Noemie Masfrand" target="aerosol"></edge>
+      <edge id="379" source="Gilles Coatrieux" target="PET PCR"></edge>
+      <edge id="380" source="Gilles Coatrieux" target="service cap"></edge>
+      <edge id="381" source="Anais Gentils" target="injection gate"></edge>
+      <edge id="382" source="Lycia Aoussat" target="flowlines"></edge>
+      <edge id="383" source="Emilie Monteiro" target="PET PCR"></edge>
+      <edge id="384" source="Yannick Mandati" target="decoration resistance with lotion"></edge>
+      <edge id="385" source="François Martin" target="organization first production control"></edge>
+      <edge id="386" source="François Martin" target="makeup technical design"></edge>
+      <edge id="387" source="François Martin" target="process from inno to packaging engineering"></edge>
+      <edge id="388" source="Laurie Savoyen" target="Tub hot stamping"></edge>
+      <edge id="389" source="Marina Nem" target="box for sampling"></edge>
+      <edge id="390" source="May Chen" target="temperature/humidity sensor"></edge>
+      <edge id="391" source="Yaohui Qiu" target="temperature/humidity sensor"></edge>
+      <edge id="393" source="Renato Simoes" target="temperature/humidity sensor"></edge>
+      <edge id="394" source="Matthew Forrester" target="injection IoT sensors"></edge>
+      <edge id="395" source="Matthew Forrester" target="blow-molding IoT sensors"></edge>
+      <edge id="396" source="Simon Lan" target="injection PET PCR"></edge>
+      <edge id="397" source="Ge Tian" target="mask sachet"></edge>
+      <edge id="398" source="Yaohui Qiu" target="deep tub compatibility"></edge>
+      <edge id="399" source="Marina Nem" target="additive on PCR materials"></edge>
+      <edge id="400" source="Luis Lima" target="PP-PE friction"></edge>
+      <edge id="401" source="Luis Lima" target="PP-PET friction"></edge>
+      <edge id="402" source="Luis Lima" target="mecanism"></edge>
+      <edge id="403" source="Theophile Ziegler" target="wiper assembly"></edge>
+      <edge id="404" source="Theophile Ziegler" target="glass mascara"></edge>
+      <edge id="405" source="Laurie Savoyen" target="injection PET PCR"></edge>
+      <edge id="407" source="Delphine Trillat" target="material safety"></edge>
+      <edge id="408" source="Delphine Trillat" target="PCR"></edge>
+      <edge id="409" source="Delphine Trillat" target="food grade"></edge>
+      <edge id="410" source="Delphine Trillat" target="beautygrade"></edge>
+      <edge id="411" source="Nicolas  Duru" target="metallization"></edge>
+      <edge id="412" source="Cedric Dever" target="biodegradable materials"></edge>
+      <edge id="413" source="Cedric Dever" target="compostable materials"></edge>
+      <edge id="414" source="Cedric Dever" target="bioplastic"></edge>
+      <edge id="415" source="David Guerin" target="paper"></edge>
+      <edge id="416" source="David Guerin" target="cartboard"></edge>
+      <edge id="417" source="Thomas Etein" target="compostability"></edge>
+      <edge id="418" source="Thomas Etein" target="recyclability"></edge>
+      <edge id="419" source="Marie Valentin" target="FSC"></edge>
+      <edge id="420" source="Marie Valentin" target="Forest Policy"></edge>
+      <edge id="421" source="Marie Valentin" target="Environmental impact of Glass"></edge>
+      <edge id="422" source="Marie Valentin" target="Environmental impact of cellulosic material"></edge>
+      <edge id="423" source="Elie  Makhoul" target="Regulatory"></edge>
+      <edge id="424" source="Elie  Makhoul" target="claims"></edge>
+      <edge id="425" source="Elie  Makhoul" target="Environmental impact of Metals"></edge>
+      <edge id="426" source="Brice Andre" target="environmental impact of packaging"></edge>
+      <edge id="427" source="Anne Guillou" target="Upstream Circularity"></edge>
+      <edge id="428" source="Anne Guillou" target="EMcA program"></edge>
+      <edge id="429" source="Anne Guillou" target="Environmental impact of Plastics"></edge>
+      <edge id="430" source="Carine Pascal" target="SPOT methodology"></edge>
+      <edge id="431" source="Carine Pascal" target="PIL Pack Methodology"></edge>
+      <edge id="432" source="Carine Pascal" target="sustainability Performance"></edge>
+      <edge id="433" source="Olivier  Farnault" target="aerosol diffusor"></edge>
+      <edge id="434" source="Patrick Jamet" target="tomography"></edge>
+      <edge id="435" source="Laure Thiebaut" target="consumers knowledge"></edge>
+      <edge id="436" source="Adriana  Fregoso" target="beautygrade"></edge>
+      <edge id="437" source="Annie Borla" target="beautygrade"></edge>
+      <edge id="438" source="Elise  Saunier" target="3D printed materials safety"></edge>
+      <edge id="439" source="Emeric Renaudin" target="digital simulation"></edge>
+      <edge id="440" source="Emeric Renaudin" target="deformation simulation"></edge>
+      <edge id="441" source="Luc Maelstaf" target="service cap"></edge>
+      <edge id="442" source="Luc Maelstaf" target="thin packaging technical design"></edge>
+      <edge id="443" source="Philippe Van der schrieck" target="color&amp;artwork"></edge>
+      <edge id="444" source="Philippe Van der schrieck" target="colorimetry"></edge>
+      <edge id="445" source="Whenzhen Cheng" target="mockup"></edge>
+      <edge id="446" source="William Bickford" target="mockup"></edge>
+      <edge id="447" source="Thiago Lucca" target="mockup"></edge>
+      <edge id="448" source="Jose luis Fortanelli" target="mockup"></edge>
+      <edge id="449" source="Alexis Leonard" target="mockup"></edge>
+      <edge id="450" source="Aditya Varale" target="mockup"></edge>
+      <edge id="451" source="Maxime Peron" target="mockup"></edge>
+      <edge id="452" source="François Boucher" target="mockup"></edge>
+      <edge id="453" source="Stephane Lesprit" target="PCR"></edge>
+      <edge id="454" source="Patrick Charnay" target="production mold"></edge>
+      <edge id="455" source="Patrick Charnay" target="injection mold design"></edge>
+      <edge id="456" source="injection" target="flowlines"></edge>
+      <edge id="457" source="injection" target="bi-injection"></edge>
+      <edge id="458" source="injection" target="coloration PET PCR"></edge>
+      <edge id="459" source="injection" target="overtorque lipstick"></edge>
+      <edge id="460" source="injection" target="mecanism"></edge>
+      <edge id="461" source="injection" target="bullet cup"></edge>
+      <edge id="462" source="injection" target="flexible jar"></edge>
+      <edge id="463" source="injection" target="magnet"></edge>
+      <edge id="464" source="injection" target="compact"></edge>
+      <edge id="465" source="injection" target="service cap technical design"></edge>
+      <edge id="466" source="injection" target="canula"></edge>
+      <edge id="467" source="injection" target="Reduction injection time"></edge>
+      <edge id="468" source="injection" target="parfum cap"></edge>
+      <edge id="469" source="injection" target="service cap"></edge>
+      <edge id="470" source="injection" target="wiper"></edge>
+      <edge id="472" source="injection" target="injection gate"></edge>
+      <edge id="473" source="injection" target="injection lipstick"></edge>
+      <edge id="474" source="injection" target="injection mold design"></edge>
+      <edge id="475" source="injection" target="injection PET PCR"></edge>
+      <edge id="476" source="decoration" target="PETG PCR masterbatch"></edge>
+      <edge id="477" source="decoration" target="PP decoration"></edge>
+      <edge id="478" source="decoration" target="bottle label defect"></edge>
+      <edge id="479" source="decoration" target="metallization"></edge>
+      <edge id="480" source="decoration" target="mascara decoration" weight="2.0"></edge>
+      <edge id="481" source="decoration" target="thermic lacquer"></edge>
+      <edge id="482" source="decoration" target="tub decoration"></edge>
+      <edge id="483" source="decoration" target="compact decoration"></edge>
+      <edge id="485" source="decoration" target="flowlines"></edge>
+      <edge id="486" source="decoration" target="decoration resistance with lotion"></edge>
+      <edge id="487" source="decoration" target="Tub hot stamping"></edge>
+      <edge id="489" source="decoration" target="PET decoration"></edge>
+      <edge id="490" source="decoration" target="color&amp;artwork"></edge>
+      <edge id="491" source="decoration" target="colorimetry"></edge>
+      <edge id="492" source="upskilling" target="FIT digitalization"></edge>
+      <edge id="493" source="upskilling" target="video production"></edge>
+      <edge id="495" source="upskilling" target="technical topics sharing"></edge>
+      <edge id="496" source="test" target="overtorque lipstick"></edge>
+      <edge id="497" source="test" target="droptest bullet"></edge>
+      <edge id="498" source="test" target="tension force capability"></edge>
+      <edge id="499" source="test" target="Torque test"></edge>
+      <edge id="500" source="test" target="thin packaging test"></edge>
+      <edge id="501" source="test" target="flexible packaging test"></edge>
+      <edge id="502" source="test" target="troque force mecanism"></edge>
+      <edge id="503" source="test" target="tomography"></edge>
+      <edge id="504" source="injection blow molding" target="PET PCR"></edge>
+      <edge id="506" source="compatibility" target="Sleeve corroded"></edge>
+      <edge id="507" source="compatibility" target="UV formula resistance"></edge>
+      <edge id="508" source="compatibility" target="Wet Nozzle Cannula"></edge>
+      <edge id="509" source="compatibility" target="oil formula resistance"></edge>
+      <edge id="510" source="compatibility" target="leakage oil pump"></edge>
+      <edge id="511" source="compatibility" target="isododecane formula pump"></edge>
+      <edge id="512" source="compatibility" target="varnish cracking"></edge>
+      <edge id="513" source="compatibility" target="deep tub compatibility"></edge>
+      <edge id="514" source="assembly" target="wiper assembly"></edge>
+      <edge id="515" source="assembly" target="leakage Mist pump"></edge>
+      <edge id="516" source="assembly" target="sleeve on pump"></edge>
+      <edge id="517" source="assembly" target="POM mecanism"></edge>
+      <edge id="518" source="assembly" target="PBT mecanism"></edge>
+      <edge id="519" source="assembly" target="screwing mascara"></edge>
+      <edge id="520" source="assembly" target="pump"></edge>
+      <edge id="521" source="assembly" target="lipstick"></edge>
+      <edge id="522" source="assembly" target="glue"></edge>
+      <edge id="524" source="assembly" target="welding design"></edge>
+      <edge id="525" source="assembly" target="PS mecanism"></edge>
+      <edge id="526" source="assembly" target="mask sachet"></edge>
+      <edge id="527" source="assembly" target="PP-PE friction"></edge>
+      <edge id="528" source="assembly" target="PP-PET friction"></edge>
+      <edge id="529" source="3D printing" target="tub mockup"></edge>
+      <edge id="530" source="3D printing" target="mockup"></edge>
+      <edge id="531" source="3D printing" target="welding tub mockup"></edge>
+      <edge id="532" source="3D printing" target="flexible bottle mockup"></edge>
+      <edge id="533" source="3D printing" target="formula mockup"></edge>
+      <edge id="535" source="3D printing" target="3D printed finish foods"></edge>
+      <edge id="536" source="3D printing" target="3D printed materials safety"></edge>
+      <edge id="537" source="3D printing" target="3D printed mold"></edge>
+      <edge id="538" source="3D printing" target="3D printed test tool"></edge>
+      <edge id="539" source="3D printing" target="PET PCR 3D printed"></edge>
+      <edge id="540" source="3D printing" target="conformal cooling"></edge>
+      <edge id="541" source="technical design" target="optimisation topologic"></edge>
+      <edge id="542" source="technical design" target="production mold"></edge>
+      <edge id="543" source="technical design" target="service cap technical design"></edge>
+      <edge id="544" source="technical design" target="digital simulation"></edge>
+      <edge id="545" source="technical design" target="makeup technical design"></edge>
+      <edge id="546" source="technical design" target="deformation simulation"></edge>
+      <edge id="547" source="technical design" target="thin packaging technical design"></edge>
+      <edge id="548" source="VR" target="virtual room"></edge>
+      <edge id="549" source="VR" target="digital mockup"></edge>
+      <edge id="550" source="VR" target="360° immersion"></edge>
+      <edge id="551" source="VR" target="digitalised visit"></edge>
+      <edge id="552" source="dispensing" target="aerosol filling"></edge>
+      <edge id="553" source="dispensing" target="liquefied gas"></edge>
+      <edge id="554" source="dispensing" target="aerosol diffusor"></edge>
+      <edge id="555" source="dispensing" target="aerosol"></edge>
+      <edge id="556" source="flexible packaging" target="pouch mockup"></edge>
+      <edge id="557" source="flexible packaging" target="pouch digital printed"></edge>
+      <edge id="558" source="flexible packaging" target="pouch"></edge>
+      <edge id="559" source="polymer materials" target="recyled materials"></edge>
+      <edge id="560" source="polymer materials" target="material safety"></edge>
+      <edge id="561" source="polymer materials" target="food grade"></edge>
+      <edge id="562" source="polymer materials" target="beautygrade"></edge>
+      <edge id="563" source="polymer materials" target="PCR"></edge>
+      <edge id="564" source="polymer materials" target="biodegradable materials"></edge>
+      <edge id="565" source="polymer materials" target="compostable materials"></edge>
+      <edge id="566" source="polymer materials" target="bioplastic"></edge>
+      <edge id="567" source="polymer materials" target="compostability"></edge>
+      <edge id="568" source="polymer materials" target="Environmental impact of Plastics"></edge>
+      <edge id="569" source="metal" target="aluminium tub"></edge>
+      <edge id="570" source="metal" target="zamac"></edge>
+      <edge id="571" source="metal" target="Environmental impact of Metals"></edge>
+      <edge id="572" source="organization" target="Digitalization meeting"></edge>
+      <edge id="573" source="organization" target="extended ecosystem"></edge>
+      <edge id="574" source="organization" target="open innovation"></edge>
+      <edge id="575" source="organization" target="organization first production control"></edge>
+      <edge id="576" source="organization" target="process from inno to packaging engineering"></edge>
+      <edge id="577" source="organization" target="temperature/humidity sensor"></edge>
+      <edge id="578" source="organization" target="Regulatory"></edge>
+      <edge id="579" source="organization" target="consumers knowledge"></edge>
+      <edge id="580" source="extrusion" target="extruded bottle"></edge>
+      <edge id="581" source="fontaine" target="parfum fontaine"></edge>
+      <edge id="582" source="fontaine" target="shampoo fontaine"></edge>
+      <edge id="583" source="additive" target="PP charged"></edge>
+      <edge id="584" source="additive" target="HDPE softtouch"></edge>
+      <edge id="585" source="additive" target="additive on PCR materials"></edge>
+      <edge id="586" source="label" target="transparent BOPP label"></edge>
+      <edge id="587" source="label" target="glassine paper"></edge>
+      <edge id="588" source="label" target="pelable label"></edge>
+      <edge id="589" source="label" target="compact label"></edge>
+      <edge id="590" source="secondary packaging" target="box for sampling"></edge>
+      <edge id="591" source="glass" target="glass mascara"></edge>
+      <edge id="592" source="glass" target="Environmental impact of Glass"></edge>
+      <edge id="593" source="cellulosic materials" target="paper"></edge>
+      <edge id="594" source="cellulosic materials" target="cartboard"></edge>
+      <edge id="595" source="cellulosic materials" target="FSC"></edge>
+      <edge id="596" source="cellulosic materials" target="Forest Policy"></edge>
+      <edge id="597" source="cellulosic materials" target="Environmental impact of cellulosic material"></edge>
+      <edge id="598" source="Sustainability" target="claims"></edge>
+      <edge id="599" source="Sustainability" target="recyclability"></edge>
+      <edge id="600" source="Sustainability" target="environmental impact of packaging"></edge>
+      <edge id="601" source="Sustainability" target="Upstream Circularity"></edge>
+      <edge id="602" source="Sustainability" target="EMcA program"></edge>
+      <edge id="603" source="Sustainability" target="SPOT methodology"></edge>
+      <edge id="604" source="Sustainability" target="PIL Pack Methodology"></edge>
+      <edge id="605" source="Sustainability" target="sustainability Performance"></edge>
+      <edge id="606" source="Connected tools" target="injection IoT sensors"></edge>
+      <edge id="607" source="Connected tools" target="blow-molding IoT sensors"></edge>
+      <edge id="608" source="pump" target="pump spring noize"></edge>
+    </edges>
+  </graph>
+</gexf>
